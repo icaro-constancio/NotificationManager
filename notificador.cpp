@@ -88,7 +88,7 @@ int main() {
 
         switch (tolower(opcao)) {
             case 'd':
-                if (NotificarDiscord(""))
+                if (NotificarDiscord("Teste"))
                     cout << "Notificação Enviada\n";
                 else
                     cout << "Notificação não enviada\n";
