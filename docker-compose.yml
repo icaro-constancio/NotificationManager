@@ -1,0 +1,9 @@
+
+services:
+  notification-manager:
+    build: .
+    container_name: notification-manager-container
+    env_file:
+      - ./.env
+    stdin_open: true
+    tty: true

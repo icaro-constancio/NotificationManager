@@ -1,0 +1,7 @@
+*.o
+*.out
+notify
+build/
+temp/
+.DS_Store
+.docker/
