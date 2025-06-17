@@ -32,7 +32,7 @@ The recommended way to use this project is via Docker, which encapsulates all ne
 
 1. **Clone the repository:**
     ```
-    git clone <https://github.com/icaro-constancio/NotificationManager.git>
+    git clone https://github.com/icaro-constancio/NotificationManager.git
     ```
 
 2. **Set environment variables:**  
